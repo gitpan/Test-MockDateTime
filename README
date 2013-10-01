@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Test-MockDateTime,
-version 0.01:
+version 0.02:
 
   mock DateTime->now calls during tests
 
